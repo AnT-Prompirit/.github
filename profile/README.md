@@ -6,6 +6,7 @@
 |[김한나 Hannah Kim](https://github.com/gamddalki)|[이현 Hyun Lee](https://github.com/hyuni0316)|[방선유 Sunyu Bang](https://github.com/syou-b)|
 
 <img src="https://file.notion.so/f/f/5d9d2286-9d4b-4280-9c25-26c1e0701e0a/c5a37f16-36f0-46ef-a235-d096adf1d9fd/Untitled.png?id=97dea10d-d22a-4e28-8b09-3a52104af585&table=block&spaceId=5d9d2286-9d4b-4280-9c25-26c1e0701e0a&expirationTimestamp=1701324000000&signature=3cWn-GzkXNvkkrvio8mVK2xPGXFRGZSh11TMEOgtzoM&downloadName=Untitled.png">
+
 #### 💚 We are an ACTIVE team
 
 ## Project
