@@ -8,7 +8,7 @@
 
 
 ### 💗 We are an ACTIVE team
-<img src="https://file.notion.so/f/f/5d9d2286-9d4b-4280-9c25-26c1e0701e0a/c5a37f16-36f0-46ef-a235-d096adf1d9fd/Untitled.png?id=97dea10d-d22a-4e28-8b09-3a52104af585&table=block&spaceId=5d9d2286-9d4b-4280-9c25-26c1e0701e0a&expirationTimestamp=1701324000000&signature=3cWn-GzkXNvkkrvio8mVK2xPGXFRGZSh11TMEOgtzoM&downloadName=Untitled.png" width="550">
+<img src="https://file.notion.so/f/f/36853d99-e197-46f4-8c20-2e7f9eca92dd/c5a37f16-36f0-46ef-a235-d096adf1d9fd/Untitled.png?id=115aa2a6-8770-46c4-9927-d4a0ce00d06e&table=block&spaceId=36853d99-e197-46f4-8c20-2e7f9eca92dd&expirationTimestamp=1711180800000&signature=aUPEuFn8xFJWqJqLa6O-SZsO7osjJPLq4jm1TTdlyT0&downloadName=Untitled.png" width="550">
 
 
 
