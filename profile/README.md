@@ -5,7 +5,7 @@
 | <img src="https://github.com/AnT-Prompirit/.github/assets/77625287/648828be-460b-481b-88a5-a1af54166983" width="400"> | <img src="https://github.com/AnT-Prompirit/.github/assets/77625287/2efbffaf-fbc6-4adf-bffc-de5568a2fada" width="400"> | <img src="https://github.com/AnT-Prompirit/.github/assets/77625287/43c610b8-6076-4c2f-a972-c061fbea7f32" width="380"> |
 | ----------------------------------- | ---------------------------------------| ------------------------------------- |
 |[김한나 Hannah Kim](https://github.com/gamddalki)|[이현 Hyun Lee](https://github.com/hyuni0316)|[방선유 Sunyu Bang](https://github.com/syou-b)|
-|팀장, 텍스트 감정 분석, 감정 라벨 추가, LMER 피팅 통계|텍스트 토큰화, 스타일 키워드, 평균 & 정규화 통계|스타일 키워드, 설문지 제작, ANOVA & Pearson 통계|
+|팀장, 텍스트 감정 분석, 감정 라벨 추가, LMER 피팅 통계|텍스트 토큰화, 스타일 키워드, 평균 & 정규화 통계, 이미지 생성|스타일 키워드, 설문지 제작, ANOVA & Pearson 통계|
 
 ## 🌟 Abstract
 최근 발전한 text-to-image 생성형 AI 모델들은 간단한 텍스트 프롬프트를 이용해 고품질의 이미지를 만들어내는 능력을 보여주고 있다. 그러나 아직까지는 생성형 AI가 감정을 정확하게 반영한 이미지를 만들어내는 능력은 부족하다. 따라서 우리는 감정의 표현력과 미학성을 개선하기 위한 자동 프롬프트 엔지니어링인 **Prompirit**을 제안한다. 우리는 사용자가 입력하는 자유로운 형식의 텍스트 입력을 개선하기 위해 사용자의 감정과 스타일 키워드를 포함하는 다양한 접근법을 탐구했다. 통계적 분석과 100명의 응답자를 대상으로 한 사용자 평가에서 Prompirit는 이미지-감정의 일치도와 생성된 이미지의 미학성을 현저히 향상시키는 동시에 원본 텍스트 입력의 내용을 정확하게 전달하는 것으로 나타났다. 이러한 결과를 바탕으로, 우리는 프롬피릿이 감정을 잘 표현하는 이미지를 효과적으로 생성할 수 있음을 시사한다.
