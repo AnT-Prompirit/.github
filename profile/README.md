@@ -5,7 +5,7 @@
 | <img src="https://github.com/AnT-Prompirit/.github/assets/77625287/648828be-460b-481b-88a5-a1af54166983" width="400"> | <img src="https://github.com/AnT-Prompirit/.github/assets/77625287/2efbffaf-fbc6-4adf-bffc-de5568a2fada" width="400"> | <img src="https://github.com/AnT-Prompirit/.github/assets/77625287/43c610b8-6076-4c2f-a972-c061fbea7f32" width="380"> |
 | ----------------------------------- | ---------------------------------------| ------------------------------------- |
 |[김한나 Hannah Kim](https://github.com/gamddalki)|[이현 Hyun Lee](https://github.com/hyuni0316)|[방선유 Sunyu Bang](https://github.com/syou-b)|
-|팀장, 텍스트 감정 분석, 감정 라벨 추가, LMER 피팅 통계|텍스트 토큰화, 스타일 키워드, 평균&정규화 통계|스타일 키워드, 설문지 제작, ANOVA&Pearson 통계|
+|팀장, 텍스트 감정 분석, 감정 라벨 추가, LMER 피팅 통계|텍스트 토큰화, 스타일 키워드, 평균 & 정규화 통계|스타일 키워드, 설문지 제작, ANOVA & Pearson 통계|
 
 ## 🌟 Elevator Speech
 “이미지 GenAI 프롬프트 최적화를 제공하는 Prompirit은 **사용자의 감정을 ﻿핵심 요소로 고려**하여 AI 생성 이미지를 개선하는 자동 프롬프트 엔지니어링 툴이다.”
